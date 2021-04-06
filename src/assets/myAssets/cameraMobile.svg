@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.295828mm"
+   height="18.90111mm"
+   viewBox="0 0 64.827737 66.972436"
+   id="svg4838"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cameraMobile.svg">
+  <defs
+     id="defs4840">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108">
+      <path
+         d="m 0,439.531 955.564,0 L 955.564,0 0,0 0,439.531 Z"
+         id="path110"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="7.8018465"
+     inkscape:cy="-1.1595874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-290.54913,-242.08172)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-199.29761,321.66734)"
+       id="g104">
+      <g
+         id="g106"
+         clip-path="url(#clipPath108)">
+        <g
+           id="g112"
+           transform="translate(437.8295,43.6475)">
+          <path
+             d="m 0,0 c 0,11.058 -8.963,20.021 -20.021,20.021 -11.057,0 -20.021,-8.963 -20.021,-20.021 0,-11.058 8.964,-20.021 20.021,-20.021 C -8.963,-20.021 0,-11.058 0,0"
+             style="fill:#fab900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path114"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g116"
+           transform="translate(417.8085,56.7139)">
+          <path
+             d="m 0,0 c -7.217,0 -13.067,-5.85 -13.067,-13.066 0,-7.217 5.85,-13.067 13.067,-13.067 7.216,0 13.066,5.85 13.066,13.067 C 13.066,-5.85 7.216,0 0,0 m 0,-1.332 c 6.47,0 11.734,-5.264 11.734,-11.734 0,-6.47 -5.264,-11.735 -11.734,-11.735 -6.471,0 -11.734,5.265 -11.734,11.735 0,6.47 5.263,11.734 11.734,11.734"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path118"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g120"
+           transform="translate(417.8085,52.6729)">
+          <path
+             d="m 0,0 c -4.985,0 -9.026,-4.041 -9.026,-9.025 0,-4.986 4.041,-9.027 9.026,-9.027 4.985,0 9.026,4.041 9.026,9.027 C 9.026,-4.041 4.985,0 0,0 m 0,-0.92 c 4.47,0 8.106,-3.637 8.106,-8.105 0,-4.47 -3.636,-8.107 -8.106,-8.107 -4.469,0 -8.105,3.637 -8.105,8.107 0,4.468 3.636,8.105 8.105,8.105"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path122"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <text
+       y="308.94165"
+       x="290.23663"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Graphik Light';-inkscape-font-specification:Graphik-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text124-7"
+       sodipodi:linespacing="125%">
+      <tspan
+         sodipodi:role="line"
+         id="tspan126-8"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Graphik;-inkscape-font-specification:'Graphik, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         x="290.23663"
+         y="308.94165">take a selfie</tspan>
+    </text>
+  </g>
+</svg>

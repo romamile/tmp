@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="63.586079mm"
+   height="14.393686mm"
+   viewBox="0 0 225.305 51.00125"
+   id="svg7185"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="backToMap.svg">
+  <defs
+     id="defs7187" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-43.251368"
+     inkscape:cy="546.01695"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="683"
+     inkscape:window-height="716"
+     inkscape:window-x="683"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7190">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-450.57668,-1159.3382)">
+    <g
+       transform="translate(444.65774,998.63946)"
+       id="g6872">
+      <g
+         id="g530"
+         transform="matrix(1.25,0,0,-1.25,205.72393,160.69878)">
+        <path
+           d="m 0,0 -19.339,0 -140.505,0 0,-40.801 140.505,0 19.339,0 c 11.267,0 20.4,9.134 20.4,20.401 C 20.4,-9.134 11.267,0 0,0"
+           style="fill:#fab900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path532"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         y="191.15987"
+         x="19.76655"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Graphik Regular';-inkscape-font-specification:Graphik-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text606-2">
+        <tspan
+           x="19.76655 30.739038 40.189049 50.164055 59.194069 63.831547 70.044075 80.614037 85.251549 101.17655 110.62655"
+           y="191.15987"
+           sodipodi:role="line"
+           id="tspan608-2">back to map</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan610-8"
+           x="19.76655"
+           y="-inf" />
+        <tspan
+           x="44.319054 99.374046 159.66159"
+           sodipodi:role="line"
+           id="tspan612-9" />
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4968"
+   viewBox="0 0 186.24512 52.717624"
+   height="14.878085mm"
+   width="52.562511mm">
+  <defs
+     id="defs4970">
+    <clipPath
+       id="clipPath244"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path246"
+         d="M 0,842 1366,842 1366,0 0,0 0,842 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath244-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path246-6"
+         d="M 0,842 1366,842 1366,0 0,0 0,842 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata4973">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(237.07552,-126.92895)"
+     id="layer1">
+    <g
+       id="g5839"
+       transform="matrix(1.25,0,0,-1.25,-1167.4479,188.9127)">
+      <g
+         id="g98"
+         transform="translate(872.207,49.5869)">
+        <path
+           d="M 0,0 C 11.646,0 21.087,-9.441 21.087,-21.087 21.087,-32.733 11.646,-42.174 0,-42.174 l -106.822,0 0,42.174 L 0,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path100" />
+      </g>
+      <text
+         transform="matrix(1,0,0,-1,799.2695,25.168)"
+         style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:14px;font-family:'Graphik Light';-inkscape-font-specification:Graphik-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text256">
+        <tspan
+           y="0"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Graphik;-inkscape-font-specification:'Graphik Light'"
+           id="tspan258">take a selfie</tspan>
+      </text>
+      <g
+         id="g268"
+         transform="translate(744.2979,28.5)">
+        <path
+           d="m 0,0 c 0,-11.646 9.44,-21.087 21.087,-21.087 11.645,0 21.087,9.441 21.087,21.087 0,11.646 -9.442,21.087 -21.087,21.087 C 9.44,21.087 0,11.646 0,0"
+           style="fill:#fab900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path270" />
+      </g>
+      <g
+         id="g272"
+         transform="translate(765.3848,42.2617)">
+        <path
+           d="m 0,0 c -7.601,0 -13.762,-6.161 -13.762,-13.762 0,-7.6 6.161,-13.761 13.762,-13.761 7.601,0 13.763,6.161 13.763,13.761 C 13.763,-6.161 7.601,0 0,0 m 0,-1.402 c 6.814,0 12.359,-5.545 12.359,-12.36 0,-6.814 -5.545,-12.359 -12.359,-12.359 -6.814,0 -12.358,5.545 -12.358,12.359 0,6.815 5.544,12.36 12.358,12.36"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path274" />
+      </g>
+      <g
+         id="g276"
+         transform="translate(765.3848,38.0068)">
+        <path
+           d="m 0,0 c -5.25,0 -9.507,-4.256 -9.507,-9.507 0,-5.25 4.257,-9.506 9.507,-9.506 5.25,0 9.506,4.256 9.506,9.506 C 9.506,-4.256 5.25,0 0,0 m 0,-0.97 c 4.707,0 8.537,-3.829 8.537,-8.537 0,-4.707 -3.83,-8.537 -8.537,-8.537 -4.708,0 -8.537,3.83 -8.537,8.537 0,4.708 3.829,8.537 8.537,8.537"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path278" />
+      </g>
+    </g>
+  </g>
+</svg>
